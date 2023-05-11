@@ -16,3 +16,6 @@ GET /weapontype/{weapontype}
 ```
 GET /attacktype/{attackType}
 ```
+
+## To do
+Add documentation
