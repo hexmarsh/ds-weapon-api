@@ -1,0 +1,4481 @@
+[ {
+  "name" : "Dagger",
+  "attackPower" : {
+    "physical" : 56,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 131
+  },
+  "damageReduction" : {
+    "physical" : 45,
+    "magic" : 10,
+    "fire" : 30,
+    "lightning" : 30,
+    "stability" : 26
+  },
+  "requirements" : {
+    "strength" : 5,
+    "dexterity" : 8,
+    "intelligence" : 0,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "E",
+    "dexterity" : "B",
+    "intelligence" : "-",
+    "faith" : "-"
+  },
+  "durability" : 200,
+  "weight" : 0.5,
+  "attackType" : "slash/thrust",
+  "weaponType" : "dagger"
+}, {
+  "name" : "Parrying Dagger",
+  "attackPower" : {
+    "physical" : 54,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 131
+  },
+  "damageReduction" : {
+    "physical" : 45,
+    "magic" : 10,
+    "fire" : 30,
+    "lightning" : 30,
+    "stability" : 26
+  },
+  "requirements" : {
+    "strength" : 5,
+    "dexterity" : 14,
+    "intelligence" : 0,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "E",
+    "dexterity" : "B",
+    "intelligence" : "-",
+    "faith" : "-"
+  },
+  "durability" : 200,
+  "weight" : 0.5,
+  "attackType" : "slash/thrust",
+  "weaponType" : "dagger"
+}, {
+  "name" : "Bandit's Knife",
+  "attackPower" : {
+    "physical" : 56,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 147
+  },
+  "damageReduction" : {
+    "physical" : 45,
+    "magic" : 10,
+    "fire" : 30,
+    "lightning" : 30,
+    "stability" : 26
+  },
+  "requirements" : {
+    "strength" : 6,
+    "dexterity" : 12,
+    "intelligence" : 0,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "E",
+    "dexterity" : "B",
+    "intelligence" : "-",
+    "faith" : "-"
+  },
+  "durability" : 200,
+  "weight" : 1.0,
+  "attackType" : "slash",
+  "weaponType" : "dagger"
+}, {
+  "name" : "Ghost Blade",
+  "attackPower" : {
+    "physical" : 110,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 127
+  },
+  "damageReduction" : {
+    "physical" : 45,
+    "magic" : 10,
+    "fire" : 30,
+    "lightning" : 30,
+    "stability" : 26
+  },
+  "requirements" : {
+    "strength" : 5,
+    "dexterity" : 0,
+    "intelligence" : 0,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "E",
+    "dexterity" : "-",
+    "intelligence" : "-",
+    "faith" : "-"
+  },
+  "durability" : 100,
+  "weight" : 0.5,
+  "attackType" : "slash/thrust/combo",
+  "weaponType" : "dagger"
+}, {
+  "name" : "Dark Silver Tracer",
+  "attackPower" : {
+    "physical" : 75,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 160
+  },
+  "damageReduction" : {
+    "physical" : 45,
+    "magic" : 10,
+    "fire" : 30,
+    "lightning" : 30,
+    "stability" : 26
+  },
+  "requirements" : {
+    "strength" : 6,
+    "dexterity" : 25,
+    "intelligence" : 0,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "E",
+    "dexterity" : "S",
+    "intelligence" : "-",
+    "faith" : "-"
+  },
+  "durability" : 120,
+  "weight" : 1.0,
+  "attackType" : "slash/thrust",
+  "weaponType" : "dagger"
+}, {
+  "name" : "Priscilla's Dagger",
+  "attackPower" : {
+    "physical" : 80,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 45,
+    "magic" : 10,
+    "fire" : 30,
+    "lightning" : 30,
+    "stability" : 26
+  },
+  "requirements" : {
+    "strength" : 6,
+    "dexterity" : 20,
+    "intelligence" : 0,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "-",
+    "dexterity" : "A",
+    "intelligence" : "-",
+    "faith" : "-"
+  },
+  "durability" : 100,
+  "weight" : 1.0,
+  "attackType" : "slash/combo",
+  "weaponType" : "dagger"
+}, {
+  "name" : "Shortsword",
+  "attackPower" : {
+    "physical" : 78,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 50,
+    "magic" : 10,
+    "fire" : 35,
+    "lightning" : 35,
+    "stability" : 32
+  },
+  "requirements" : {
+    "strength" : 8,
+    "dexterity" : 10,
+    "intelligence" : 0,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "C",
+    "dexterity" : "C",
+    "intelligence" : "-",
+    "faith" : "-"
+  },
+  "durability" : 200,
+  "weight" : 2.0,
+  "attackType" : "regular/thrust",
+  "weaponType" : "straight-sword"
+}, {
+  "name" : "Longsword",
+  "attackPower" : {
+    "physical" : 80,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 50,
+    "magic" : 10,
+    "fire" : 35,
+    "lightning" : 35,
+    "stability" : 32
+  },
+  "requirements" : {
+    "strength" : 10,
+    "dexterity" : 10,
+    "intelligence" : 0,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "C",
+    "dexterity" : "C",
+    "intelligence" : "-",
+    "faith" : "-"
+  },
+  "durability" : 200,
+  "weight" : 3.0,
+  "attackType" : "regular/thrust",
+  "weaponType" : "straight-sword"
+}, {
+  "name" : "Broadsword",
+  "attackPower" : {
+    "physical" : 82,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 50,
+    "magic" : 10,
+    "fire" : 35,
+    "lightning" : 35,
+    "stability" : 32
+  },
+  "requirements" : {
+    "strength" : 10,
+    "dexterity" : 10,
+    "intelligence" : 0,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "C",
+    "dexterity" : "C",
+    "intelligence" : "-",
+    "faith" : "-"
+  },
+  "durability" : 200,
+  "weight" : 3.0,
+  "attackType" : "regular",
+  "weaponType" : "straight-sword"
+}, {
+  "name" : "Balder Side Sword",
+  "attackPower" : {
+    "physical" : 80,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 50,
+    "magic" : 10,
+    "fire" : 35,
+    "lightning" : 35,
+    "stability" : 32
+  },
+  "requirements" : {
+    "strength" : 10,
+    "dexterity" : 14,
+    "intelligence" : 0,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "E",
+    "dexterity" : "B",
+    "intelligence" : "-",
+    "faith" : "-"
+  },
+  "durability" : 120,
+  "weight" : 3.0,
+  "attackType" : "regular/thrust",
+  "weaponType" : "straight-sword"
+}, {
+  "name" : "Sunlight Straight Sword",
+  "attackPower" : {
+    "physical" : 82,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 50,
+    "magic" : 10,
+    "fire" : 35,
+    "lightning" : 35,
+    "stability" : 32
+  },
+  "requirements" : {
+    "strength" : 12,
+    "dexterity" : 12,
+    "intelligence" : 0,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "C",
+    "dexterity" : "C",
+    "intelligence" : "-",
+    "faith" : "-"
+  },
+  "durability" : 240,
+  "weight" : 4.0,
+  "attackType" : "regular/thrust",
+  "weaponType" : "straight-sword"
+}, {
+  "name" : "Darksword",
+  "attackPower" : {
+    "physical" : 82,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 50,
+    "magic" : 10,
+    "fire" : 35,
+    "lightning" : 35,
+    "stability" : 32
+  },
+  "requirements" : {
+    "strength" : 16,
+    "dexterity" : 16,
+    "intelligence" : 0,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "C",
+    "dexterity" : "C",
+    "intelligence" : "-",
+    "faith" : "-"
+  },
+  "durability" : 200,
+  "weight" : 6.0,
+  "attackType" : "regular",
+  "weaponType" : "straight-sword"
+}, {
+  "name" : "Barbed Straight Sword",
+  "attackPower" : {
+    "physical" : 80,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 50,
+    "magic" : 10,
+    "fire" : 35,
+    "lightning" : 35,
+    "stability" : 32
+  },
+  "requirements" : {
+    "strength" : 10,
+    "dexterity" : 10,
+    "intelligence" : 0,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "D",
+    "dexterity" : "D",
+    "intelligence" : "-",
+    "faith" : "-"
+  },
+  "durability" : 160,
+  "weight" : 3.0,
+  "attackType" : "thrust",
+  "weaponType" : "straight-sword"
+}, {
+  "name" : "Crystal Straight Sword",
+  "attackPower" : {
+    "physical" : 145,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 50,
+    "magic" : 10,
+    "fire" : 35,
+    "lightning" : 35,
+    "stability" : 32
+  },
+  "requirements" : {
+    "strength" : 16,
+    "dexterity" : 10,
+    "intelligence" : 0,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "C",
+    "dexterity" : "C",
+    "intelligence" : "-",
+    "faith" : "-"
+  },
+  "durability" : 60,
+  "weight" : 6.0,
+  "attackType" : "regular/thrust",
+  "weaponType" : "straight-sword"
+}, {
+  "name" : "Silver Knight Straight Sword",
+  "attackPower" : {
+    "physical" : 175,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 50,
+    "magic" : 10,
+    "fire" : 35,
+    "lightning" : 35,
+    "stability" : 32
+  },
+  "requirements" : {
+    "strength" : 16,
+    "dexterity" : 22,
+    "intelligence" : 0,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "E",
+    "dexterity" : "C",
+    "intelligence" : "-",
+    "faith" : "-"
+  },
+  "durability" : 300,
+  "weight" : 6.0,
+  "attackType" : "regular",
+  "weaponType" : "straight-sword"
+}, {
+  "name" : "Astora's Straight Sword",
+  "attackPower" : {
+    "physical" : 80,
+    "magical" : 80,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 50,
+    "magic" : 10,
+    "fire" : 35,
+    "lightning" : 35,
+    "stability" : 32
+  },
+  "requirements" : {
+    "strength" : 10,
+    "dexterity" : 10,
+    "intelligence" : 0,
+    "faith" : 14
+  },
+  "parameterBonus" : {
+    "strength" : "C",
+    "dexterity" : "C",
+    "intelligence" : "-",
+    "faith" : "C"
+  },
+  "durability" : 160,
+  "weight" : 3.0,
+  "attackType" : "regular/thrust",
+  "weaponType" : "straight-sword"
+}, {
+  "name" : "Drake Sword",
+  "attackPower" : {
+    "physical" : 200,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 50,
+    "magic" : 10,
+    "fire" : 35,
+    "lightning" : 35,
+    "stability" : 32
+  },
+  "requirements" : {
+    "strength" : 16,
+    "dexterity" : 10,
+    "intelligence" : 0,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "-",
+    "dexterity" : "-",
+    "intelligence" : "-",
+    "faith" : "-"
+  },
+  "durability" : 360,
+  "weight" : 6.0,
+  "attackType" : "regular/special",
+  "weaponType" : "straight-sword"
+}, {
+  "name" : "Broken Straight Sword",
+  "attackPower" : {
+    "physical" : 40,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 20,
+    "magic" : 5,
+    "fire" : 15,
+    "lightning" : 15,
+    "stability" : 16
+  },
+  "requirements" : {
+    "strength" : 8,
+    "dexterity" : 8,
+    "intelligence" : 0,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "D",
+    "dexterity" : "D",
+    "intelligence" : "-",
+    "faith" : "-"
+  },
+  "durability" : 200,
+  "weight" : 2.0,
+  "attackType" : "regular/thrust",
+  "weaponType" : "straight-sword"
+}, {
+  "name" : "Straight Sword Hilt",
+  "attackPower" : {
+    "physical" : 20,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 20,
+    "magic" : 5,
+    "fire" : 15,
+    "lightning" : 15,
+    "stability" : 10
+  },
+  "requirements" : {
+    "strength" : 6,
+    "dexterity" : 6,
+    "intelligence" : 0,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "E",
+    "dexterity" : "E",
+    "intelligence" : "-",
+    "faith" : "-"
+  },
+  "durability" : 200,
+  "weight" : 1.0,
+  "attackType" : "regular",
+  "weaponType" : "straight-sword"
+}, {
+  "name" : "Abyss Greatsword",
+  "attackPower" : {
+    "physical" : 160,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 40,
+    "magic" : 50,
+    "fire" : 40,
+    "lightning" : 40,
+    "stability" : 38
+  },
+  "requirements" : {
+    "strength" : 22,
+    "dexterity" : 18,
+    "intelligence" : 18,
+    "faith" : 18
+  },
+  "parameterBonus" : {
+    "strength" : "C",
+    "dexterity" : "C",
+    "intelligence" : "-",
+    "faith" : "-"
+  },
+  "durability" : 300,
+  "weight" : 9.0,
+  "attackType" : "regular",
+  "weaponType" : "greatsword"
+}, {
+  "name" : "Greatsword of Artorias (Cursed)",
+  "attackPower" : {
+    "physical" : 158,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 60,
+    "magic" : 10,
+    "fire" : 40,
+    "lightning" : 40,
+    "stability" : 38
+  },
+  "requirements" : {
+    "strength" : 24,
+    "dexterity" : 18,
+    "intelligence" : 18,
+    "faith" : 18
+  },
+  "parameterBonus" : {
+    "strength" : "C",
+    "dexterity" : "C",
+    "intelligence" : "C",
+    "faith" : "C"
+  },
+  "durability" : 400,
+  "weight" : 10.0,
+  "attackType" : "regular/thrust",
+  "weaponType" : "greatsword"
+}, {
+  "name" : "Greatsword of Artorias",
+  "attackPower" : {
+    "physical" : 120,
+    "magical" : 85,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 60,
+    "magic" : 10,
+    "fire" : 40,
+    "lightning" : 40,
+    "stability" : 38
+  },
+  "requirements" : {
+    "strength" : 24,
+    "dexterity" : 18,
+    "intelligence" : 20,
+    "faith" : 20
+  },
+  "parameterBonus" : {
+    "strength" : "C",
+    "dexterity" : "C",
+    "intelligence" : "B",
+    "faith" : "B"
+  },
+  "durability" : 400,
+  "weight" : 10.0,
+  "attackType" : "regular/thrust",
+  "weaponType" : "greatsword"
+}, {
+  "name" : "Great Lord Greatsword",
+  "attackPower" : {
+    "physical" : 231,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 60,
+    "magic" : 10,
+    "fire" : 40,
+    "lightning" : 40,
+    "stability" : 26
+  },
+  "requirements" : {
+    "strength" : 20,
+    "dexterity" : 10,
+    "intelligence" : 0,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "D",
+    "dexterity" : "D",
+    "intelligence" : "-",
+    "faith" : "-"
+  },
+  "durability" : 400,
+  "weight" : 8.0,
+  "attackType" : "regular",
+  "weaponType" : "greatsword"
+}, {
+  "name" : "Bastard Sword",
+  "attackPower" : {
+    "physical" : 105,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 60,
+    "magic" : 10,
+    "fire" : 40,
+    "lightning" : 40,
+    "stability" : 38
+  },
+  "requirements" : {
+    "strength" : 16,
+    "dexterity" : 10,
+    "intelligence" : 0,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "C",
+    "dexterity" : "C",
+    "intelligence" : "-",
+    "faith" : "-"
+  },
+  "durability" : 200,
+  "weight" : 6.0,
+  "attackType" : "regular",
+  "weaponType" : "greatsword"
+}, {
+  "name" : "Claymore",
+  "attackPower" : {
+    "physical" : 103,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 60,
+    "magic" : 10,
+    "fire" : 40,
+    "lightning" : 40,
+    "stability" : 38
+  },
+  "requirements" : {
+    "strength" : 16,
+    "dexterity" : 10,
+    "intelligence" : 0,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "C",
+    "dexterity" : "C",
+    "intelligence" : "-",
+    "faith" : "-"
+  },
+  "durability" : 200,
+  "weight" : 6.0,
+  "attackType" : "regular/thrust",
+  "weaponType" : "greatsword"
+}, {
+  "name" : "Man-Serpent Greatsword",
+  "attackPower" : {
+    "physical" : 110,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 60,
+    "magic" : 10,
+    "fire" : 40,
+    "lightning" : 40,
+    "stability" : 38
+  },
+  "requirements" : {
+    "strength" : 24,
+    "dexterity" : 0,
+    "intelligence" : 0,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "B",
+    "dexterity" : "-",
+    "intelligence" : "-",
+    "faith" : "-"
+  },
+  "durability" : 300,
+  "weight" : 10.0,
+  "attackType" : "regular",
+  "weaponType" : "greatsword"
+}, {
+  "name" : "Flamberge",
+  "attackPower" : {
+    "physical" : 100,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 60,
+    "magic" : 10,
+    "fire" : 40,
+    "lightning" : 40,
+    "stability" : 38
+  },
+  "requirements" : {
+    "strength" : 16,
+    "dexterity" : 14,
+    "intelligence" : 0,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "D",
+    "dexterity" : "C",
+    "intelligence" : "-",
+    "faith" : "-"
+  },
+  "durability" : 160,
+  "weight" : 6.0,
+  "attackType" : "slash",
+  "weaponType" : "greatsword"
+}, {
+  "name" : "Crystal Greatsword",
+  "attackPower" : {
+    "physical" : 180,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 60,
+    "magic" : 10,
+    "fire" : 40,
+    "lightning" : 40,
+    "stability" : 38
+  },
+  "requirements" : {
+    "strength" : 20,
+    "dexterity" : 10,
+    "intelligence" : 0,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "C",
+    "dexterity" : "C",
+    "intelligence" : "-",
+    "faith" : "-"
+  },
+  "durability" : 60,
+  "weight" : 8.0,
+  "attackType" : "regular",
+  "weaponType" : "greatsword"
+}, {
+  "name" : "Black Knight Sword",
+  "attackPower" : {
+    "physical" : 220,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 60,
+    "magic" : 10,
+    "fire" : 40,
+    "lightning" : 40,
+    "stability" : 38
+  },
+  "requirements" : {
+    "strength" : 20,
+    "dexterity" : 18,
+    "intelligence" : 0,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "C",
+    "dexterity" : "E",
+    "intelligence" : "-",
+    "faith" : "-"
+  },
+  "durability" : 300,
+  "weight" : 8.0,
+  "attackType" : "regular/thrust",
+  "weaponType" : "greatsword"
+}, {
+  "name" : "Stone Greatsword",
+  "attackPower" : {
+    "physical" : 148,
+    "magical" : 100,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 60,
+    "magic" : 10,
+    "fire" : 40,
+    "lightning" : 40,
+    "stability" : 38
+  },
+  "requirements" : {
+    "strength" : 40,
+    "dexterity" : 10,
+    "intelligence" : 0,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "C",
+    "dexterity" : "C",
+    "intelligence" : "E",
+    "faith" : "-"
+  },
+  "durability" : 800,
+  "weight" : 18.0,
+  "attackType" : "regular/special",
+  "weaponType" : "greatsword"
+}, {
+  "name" : "Moonlight Greatsword",
+  "attackPower" : {
+    "physical" : 0,
+    "magical" : 132,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 60,
+    "magic" : 10,
+    "fire" : 40,
+    "lightning" : 40,
+    "stability" : 38
+  },
+  "requirements" : {
+    "strength" : 16,
+    "dexterity" : 10,
+    "intelligence" : 28,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "-",
+    "dexterity" : "-",
+    "intelligence" : "A",
+    "faith" : "-"
+  },
+  "durability" : 300,
+  "weight" : 6.0,
+  "attackType" : "regular/special",
+  "weaponType" : "greatsword"
+}, {
+  "name" : "Obsidian Greatsword",
+  "attackPower" : {
+    "physical" : 320,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 60,
+    "magic" : 10,
+    "fire" : 40,
+    "lightning" : 40,
+    "stability" : 38
+  },
+  "requirements" : {
+    "strength" : 20,
+    "dexterity" : 16,
+    "intelligence" : 0,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "-",
+    "dexterity" : "-",
+    "intelligence" : "-",
+    "faith" : "-"
+  },
+  "durability" : 350,
+  "weight" : 8.0,
+  "attackType" : "regular/special",
+  "weaponType" : "greatsword"
+}, {
+  "name" : "Greatsword",
+  "attackPower" : {
+    "physical" : 130,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 70,
+    "magic" : 10,
+    "fire" : 50,
+    "lightning" : 50,
+    "stability" : 44
+  },
+  "requirements" : {
+    "strength" : 28,
+    "dexterity" : 10,
+    "intelligence" : 0,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "C",
+    "dexterity" : "D",
+    "intelligence" : "-",
+    "faith" : "-"
+  },
+  "durability" : 200,
+  "weight" : 12.0,
+  "attackType" : "regular/thrust",
+  "weaponType" : "ultra-greatsword"
+}, {
+  "name" : "Zweihander",
+  "attackPower" : {
+    "physical" : 130,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 70,
+    "magic" : 10,
+    "fire" : 50,
+    "lightning" : 50,
+    "stability" : 44
+  },
+  "requirements" : {
+    "strength" : 24,
+    "dexterity" : 10,
+    "intelligence" : 0,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "C",
+    "dexterity" : "D",
+    "intelligence" : "-",
+    "faith" : "-"
+  },
+  "durability" : 200,
+  "weight" : 10.0,
+  "attackType" : "regular",
+  "weaponType" : "ultra-greatsword"
+}, {
+  "name" : "Demon Great Machete",
+  "attackPower" : {
+    "physical" : 133,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 70,
+    "magic" : 10,
+    "fire" : 50,
+    "lightning" : 50,
+    "stability" : 44
+  },
+  "requirements" : {
+    "strength" : 40,
+    "dexterity" : 0,
+    "intelligence" : 0,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "B",
+    "dexterity" : "-",
+    "intelligence" : "-",
+    "faith" : "-"
+  },
+  "durability" : 600,
+  "weight" : 18.0,
+  "attackType" : "regular",
+  "weaponType" : "ultra-greatsword"
+}, {
+  "name" : "Black Knight Greatsword",
+  "attackPower" : {
+    "physical" : 220,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 70,
+    "magic" : 10,
+    "fire" : 50,
+    "lightning" : 50,
+    "stability" : 44
+  },
+  "requirements" : {
+    "strength" : 32,
+    "dexterity" : 18,
+    "intelligence" : 0,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "B",
+    "dexterity" : "E",
+    "intelligence" : "-",
+    "faith" : "-"
+  },
+  "durability" : 300,
+  "weight" : 14.0,
+  "attackType" : "regular/thrust",
+  "weaponType" : "ultra-greatsword"
+}, {
+  "name" : "Dragon Greatsword",
+  "attackPower" : {
+    "physical" : 390,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 70,
+    "magic" : 10,
+    "fire" : 50,
+    "lightning" : 50,
+    "stability" : 44
+  },
+  "requirements" : {
+    "strength" : 50,
+    "dexterity" : 10,
+    "intelligence" : 0,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "-",
+    "dexterity" : "-",
+    "intelligence" : "-",
+    "faith" : "-"
+  },
+  "durability" : 400,
+  "weight" : 24.0,
+  "attackType" : "regular/special",
+  "weaponType" : "ultra-greatsword"
+}, {
+  "name" : "Scimitar",
+  "attackPower" : {
+    "physical" : 80,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 45,
+    "magic" : 10,
+    "fire" : 30,
+    "lightning" : 30,
+    "stability" : 30
+  },
+  "requirements" : {
+    "strength" : 7,
+    "dexterity" : 13,
+    "intelligence" : 0,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "E",
+    "dexterity" : "B",
+    "intelligence" : "-",
+    "faith" : "-"
+  },
+  "durability" : 160,
+  "weight" : 1.5,
+  "attackType" : "slash",
+  "weaponType" : "curved-sword"
+}, {
+  "name" : "Quelaag's Furysword",
+  "attackPower" : {
+    "physical" : 60,
+    "magical" : 0,
+    "fire" : 180,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 45,
+    "magic" : 10,
+    "fire" : 30,
+    "lightning" : 30,
+    "stability" : 30
+  },
+  "requirements" : {
+    "strength" : 11,
+    "dexterity" : 13,
+    "intelligence" : 0,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "E",
+    "dexterity" : "B",
+    "intelligence" : "-",
+    "faith" : "-"
+  },
+  "durability" : 600,
+  "weight" : 3.5,
+  "attackType" : "slash",
+  "weaponType" : "curved-sword"
+}, {
+  "name" : "Falchion",
+  "attackPower" : {
+    "physical" : 82,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 45,
+    "magic" : 10,
+    "fire" : 30,
+    "lightning" : 30,
+    "stability" : 30
+  },
+  "requirements" : {
+    "strength" : 9,
+    "dexterity" : 13,
+    "intelligence" : 0,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "E",
+    "dexterity" : "B",
+    "intelligence" : "-",
+    "faith" : "-"
+  },
+  "durability" : 160,
+  "weight" : 2.5,
+  "attackType" : "slash",
+  "weaponType" : "curved-sword"
+}, {
+  "name" : "Shotel",
+  "attackPower" : {
+    "physical" : 82,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 45,
+    "magic" : 10,
+    "fire" : 30,
+    "lightning" : 30,
+    "stability" : 30
+  },
+  "requirements" : {
+    "strength" : 9,
+    "dexterity" : 14,
+    "intelligence" : 0,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "E",
+    "dexterity" : "C",
+    "intelligence" : "-",
+    "faith" : "-"
+  },
+  "durability" : 120,
+  "weight" : 2.5,
+  "attackType" : "slash/special",
+  "weaponType" : "curved-sword"
+}, {
+  "name" : "Painting Guardian Sword",
+  "attackPower" : {
+    "physical" : 76,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 45,
+    "magic" : 10,
+    "fire" : 30,
+    "lightning" : 30,
+    "stability" : 30
+  },
+  "requirements" : {
+    "strength" : 7,
+    "dexterity" : 20,
+    "intelligence" : 0,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "E",
+    "dexterity" : "A",
+    "intelligence" : "-",
+    "faith" : "-"
+  },
+  "durability" : 100,
+  "weight" : 1.5,
+  "attackType" : "slash/combo",
+  "weaponType" : "curved-sword"
+}, {
+  "name" : "Jagged Ghost Blade",
+  "attackPower" : {
+    "physical" : 155,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 45,
+    "magic" : 10,
+    "fire" : 30,
+    "lightning" : 30,
+    "stability" : 30
+  },
+  "requirements" : {
+    "strength" : 7,
+    "dexterity" : 0,
+    "intelligence" : 0,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "E",
+    "dexterity" : "-",
+    "intelligence" : "-",
+    "faith" : "-"
+  },
+  "durability" : 100,
+  "weight" : 1.5,
+  "attackType" : "slash/thrust/combo",
+  "weaponType" : "curved-sword"
+}, {
+  "name" : "Gold Tracer",
+  "attackPower" : {
+    "physical" : 130,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 45,
+    "magic" : 10,
+    "fire" : 30,
+    "lightning" : 30,
+    "stability" : 30
+  },
+  "requirements" : {
+    "strength" : 9,
+    "dexterity" : 25,
+    "intelligence" : 0,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "E",
+    "dexterity" : "A",
+    "intelligence" : "-",
+    "faith" : "-"
+  },
+  "durability" : 240,
+  "weight" : 2.0,
+  "attackType" : "slash",
+  "weaponType" : "curved-sword"
+}, {
+  "name" : "Uchigatana",
+  "attackPower" : {
+    "physical" : 90,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 45,
+    "magic" : 10,
+    "fire" : 30,
+    "lightning" : 30,
+    "stability" : 30
+  },
+  "requirements" : {
+    "strength" : 14,
+    "dexterity" : 14,
+    "intelligence" : 0,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "-",
+    "dexterity" : "B",
+    "intelligence" : "-",
+    "faith" : "-"
+  },
+  "durability" : 80,
+  "weight" : 5.0,
+  "attackType" : "slash/thrust",
+  "weaponType" : "katana"
+}, {
+  "name" : "Chaos Blade",
+  "attackPower" : {
+    "physical" : 133,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 45,
+    "magic" : 10,
+    "fire" : 30,
+    "lightning" : 30,
+    "stability" : 30
+  },
+  "requirements" : {
+    "strength" : 16,
+    "dexterity" : 14,
+    "intelligence" : 0,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "-",
+    "dexterity" : "B",
+    "intelligence" : "-",
+    "faith" : "-"
+  },
+  "durability" : 120,
+  "weight" : 6.0,
+  "attackType" : "slash",
+  "weaponType" : "katana"
+}, {
+  "name" : "Iaito",
+  "attackPower" : {
+    "physical" : 88,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 45,
+    "magic" : 10,
+    "fire" : 30,
+    "lightning" : 30,
+    "stability" : 30
+  },
+  "requirements" : {
+    "strength" : 14,
+    "dexterity" : 20,
+    "intelligence" : 0,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "-",
+    "dexterity" : "B",
+    "intelligence" : "-",
+    "faith" : "-"
+  },
+  "durability" : 80,
+  "weight" : 5.0,
+  "attackType" : "slash",
+  "weaponType" : "katana"
+}, {
+  "name" : "Washing Pole",
+  "attackPower" : {
+    "physical" : 90,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 45,
+    "magic" : 10,
+    "fire" : 30,
+    "lightning" : 30,
+    "stability" : 30
+  },
+  "requirements" : {
+    "strength" : 20,
+    "dexterity" : 16,
+    "intelligence" : 0,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "D",
+    "dexterity" : "D",
+    "intelligence" : "-",
+    "faith" : "-"
+  },
+  "durability" : 60,
+  "weight" : 8.0,
+  "attackType" : "slash/thrust",
+  "weaponType" : "katana"
+}, {
+  "name" : "Murakumo",
+  "attackPower" : {
+    "physical" : 113,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 60,
+    "magic" : 10,
+    "fire" : 40,
+    "lightning" : 40,
+    "stability" : 36
+  },
+  "requirements" : {
+    "strength" : 28,
+    "dexterity" : 13,
+    "intelligence" : 0,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "E",
+    "dexterity" : "B",
+    "intelligence" : "-",
+    "faith" : "-"
+  },
+  "durability" : 180,
+  "weight" : 12.0,
+  "attackType" : "slash",
+  "weaponType" : "curved-greatsword"
+}, {
+  "name" : "Server",
+  "attackPower" : {
+    "physical" : 107,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 60,
+    "magic" : 10,
+    "fire" : 40,
+    "lightning" : 40,
+    "stability" : 36
+  },
+  "requirements" : {
+    "strength" : 24,
+    "dexterity" : 13,
+    "intelligence" : 0,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "E",
+    "dexterity" : "C",
+    "intelligence" : "-",
+    "faith" : "-"
+  },
+  "durability" : 150,
+  "weight" : 10.0,
+  "attackType" : "slash",
+  "weaponType" : "curved-greatsword"
+}, {
+  "name" : "Gravelord Sword",
+  "attackPower" : {
+    "physical" : 265,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 60,
+    "magic" : 10,
+    "fire" : 40,
+    "lightning" : 40,
+    "stability" : 36
+  },
+  "requirements" : {
+    "strength" : 24,
+    "dexterity" : 13,
+    "intelligence" : 0,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "E",
+    "dexterity" : "E",
+    "intelligence" : "-",
+    "faith" : "-"
+  },
+  "durability" : 600,
+  "weight" : 10.0,
+  "attackType" : "slash/thrust",
+  "weaponType" : "curved-greatsword"
+}, {
+  "name" : "Mail Breaker",
+  "attackPower" : {
+    "physical" : 57,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 120
+  },
+  "damageReduction" : {
+    "physical" : 45,
+    "magic" : 10,
+    "fire" : 30,
+    "lightning" : 30,
+    "stability" : 22
+  },
+  "requirements" : {
+    "strength" : 5,
+    "dexterity" : 12,
+    "intelligence" : 0,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "D",
+    "dexterity" : "C",
+    "intelligence" : "-",
+    "faith" : "-"
+  },
+  "durability" : 200,
+  "weight" : 0.5,
+  "attackType" : "thrust",
+  "weaponType" : "piercing-sword"
+}, {
+  "name" : "Rapier",
+  "attackPower" : {
+    "physical" : 73,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 110
+  },
+  "damageReduction" : {
+    "physical" : 45,
+    "magic" : 10,
+    "fire" : 30,
+    "lightning" : 30,
+    "stability" : 22
+  },
+  "requirements" : {
+    "strength" : 7,
+    "dexterity" : 12,
+    "intelligence" : 0,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "D",
+    "dexterity" : "C",
+    "intelligence" : "-",
+    "faith" : "-"
+  },
+  "durability" : 150,
+  "weight" : 1.5,
+  "attackType" : "thrust",
+  "weaponType" : "piercing-sword"
+}, {
+  "name" : "Estoc",
+  "attackPower" : {
+    "physical" : 75,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 45,
+    "magic" : 10,
+    "fire" : 30,
+    "lightning" : 30,
+    "stability" : 22
+  },
+  "requirements" : {
+    "strength" : 10,
+    "dexterity" : 12,
+    "intelligence" : 0,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "D",
+    "dexterity" : "C",
+    "intelligence" : "-",
+    "faith" : "-"
+  },
+  "durability" : 150,
+  "weight" : 3.0,
+  "attackType" : "regular/thrust",
+  "weaponType" : "piercing-sword"
+}, {
+  "name" : "Ricard's Rapier",
+  "attackPower" : {
+    "physical" : 70,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 45,
+    "magic" : 10,
+    "fire" : 30,
+    "lightning" : 30,
+    "stability" : 22
+  },
+  "requirements" : {
+    "strength" : 8,
+    "dexterity" : 20,
+    "intelligence" : 0,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "E",
+    "dexterity" : "B",
+    "intelligence" : "-",
+    "faith" : "-"
+  },
+  "durability" : 100,
+  "weight" : 2.0,
+  "attackType" : "thrust/combo",
+  "weaponType" : "piercing-sword"
+}, {
+  "name" : "Velka's Rapier",
+  "attackPower" : {
+    "physical" : 62,
+    "magical" : 104,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 45,
+    "magic" : 10,
+    "fire" : 30,
+    "lightning" : 30,
+    "stability" : 22
+  },
+  "requirements" : {
+    "strength" : 8,
+    "dexterity" : 16,
+    "intelligence" : 16,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "E",
+    "dexterity" : "C",
+    "intelligence" : "B",
+    "faith" : "-"
+  },
+  "durability" : 130,
+  "weight" : 2.0,
+  "attackType" : "regular/thrust/combo",
+  "weaponType" : "piercing-sword"
+}, {
+  "name" : "Hand Axe",
+  "attackPower" : {
+    "physical" : 80,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 55,
+    "magic" : 10,
+    "fire" : 40,
+    "lightning" : 40,
+    "stability" : 36
+  },
+  "requirements" : {
+    "strength" : 8,
+    "dexterity" : 8,
+    "intelligence" : 0,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "C",
+    "dexterity" : "D",
+    "intelligence" : "-",
+    "faith" : "-"
+  },
+  "durability" : 250,
+  "weight" : 2.0,
+  "attackType" : "regular",
+  "weaponType" : "axe"
+}, {
+  "name" : "Battle Axe",
+  "attackPower" : {
+    "physical" : 95,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 55,
+    "magic" : 10,
+    "fire" : 40,
+    "lightning" : 40,
+    "stability" : 36
+  },
+  "requirements" : {
+    "strength" : 12,
+    "dexterity" : 8,
+    "intelligence" : 0,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "C",
+    "dexterity" : "D",
+    "intelligence" : "-",
+    "faith" : "-"
+  },
+  "durability" : 250,
+  "weight" : 4.0,
+  "attackType" : "regular",
+  "weaponType" : "axe"
+}, {
+  "name" : "Golem Axe",
+  "attackPower" : {
+    "physical" : 155,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 55,
+    "magic" : 10,
+    "fire" : 40,
+    "lightning" : 40,
+    "stability" : 36
+  },
+  "requirements" : {
+    "strength" : 36,
+    "dexterity" : 8,
+    "intelligence" : 0,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "C",
+    "dexterity" : "E",
+    "intelligence" : "-",
+    "faith" : "-"
+  },
+  "durability" : 600,
+  "weight" : 16.0,
+  "attackType" : "regular/special",
+  "weaponType" : "axe"
+}, {
+  "name" : "Butcher Knife",
+  "attackPower" : {
+    "physical" : 90,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 55,
+    "magic" : 10,
+    "fire" : 40,
+    "lightning" : 40,
+    "stability" : 36
+  },
+  "requirements" : {
+    "strength" : 24,
+    "dexterity" : 0,
+    "intelligence" : 0,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "B",
+    "dexterity" : "-",
+    "intelligence" : "-",
+    "faith" : "-"
+  },
+  "durability" : 250,
+  "weight" : 10.0,
+  "attackType" : "regular",
+  "weaponType" : "axe"
+}, {
+  "name" : "Gargoyle Tail Axe",
+  "attackPower" : {
+    "physical" : 93,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 55,
+    "magic" : 10,
+    "fire" : 40,
+    "lightning" : 40,
+    "stability" : 36
+  },
+  "requirements" : {
+    "strength" : 14,
+    "dexterity" : 14,
+    "intelligence" : 0,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "D",
+    "dexterity" : "C",
+    "intelligence" : "-",
+    "faith" : "-"
+  },
+  "durability" : 150,
+  "weight" : 5.0,
+  "attackType" : "regular",
+  "weaponType" : "axe"
+}, {
+  "name" : "Crescent Axe",
+  "attackPower" : {
+    "physical" : 115,
+    "magical" : 115,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 55,
+    "magic" : 10,
+    "fire" : 40,
+    "lightning" : 40,
+    "stability" : 36
+  },
+  "requirements" : {
+    "strength" : 18,
+    "dexterity" : 12,
+    "intelligence" : 0,
+    "faith" : 16
+  },
+  "parameterBonus" : {
+    "strength" : "D",
+    "dexterity" : "D",
+    "intelligence" : "-",
+    "faith" : "B"
+  },
+  "durability" : 180,
+  "weight" : 7.0,
+  "attackType" : "regular",
+  "weaponType" : "axe"
+}, {
+  "name" : "Greataxe",
+  "attackPower" : {
+    "physical" : 140,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 55,
+    "magic" : 10,
+    "fire" : 40,
+    "lightning" : 40,
+    "stability" : 38
+  },
+  "requirements" : {
+    "strength" : 32,
+    "dexterity" : 8,
+    "intelligence" : 0,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "C",
+    "dexterity" : "E",
+    "intelligence" : "-",
+    "faith" : "-"
+  },
+  "durability" : 230,
+  "weight" : 14.0,
+  "attackType" : "regular",
+  "weaponType" : "great-axe"
+}, {
+  "name" : "Demon's Greataxe",
+  "attackPower" : {
+    "physical" : 114,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 55,
+    "magic" : 10,
+    "fire" : 40,
+    "lightning" : 40,
+    "stability" : 38
+  },
+  "requirements" : {
+    "strength" : 46,
+    "dexterity" : 0,
+    "intelligence" : 0,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "A",
+    "dexterity" : "-",
+    "intelligence" : "-",
+    "faith" : "-"
+  },
+  "durability" : 600,
+  "weight" : 22.0,
+  "attackType" : "regular",
+  "weaponType" : "great-axe"
+}, {
+  "name" : "Stone Greataxe",
+  "attackPower" : {
+    "physical" : 190,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 55,
+    "magic" : 10,
+    "fire" : 40,
+    "lightning" : 40,
+    "stability" : 38
+  },
+  "requirements" : {
+    "strength" : 48,
+    "dexterity" : 10,
+    "intelligence" : 0,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "B",
+    "dexterity" : "E",
+    "intelligence" : "-",
+    "faith" : "-"
+  },
+  "durability" : 700,
+  "weight" : 24.0,
+  "attackType" : "regular",
+  "weaponType" : "great-axe"
+}, {
+  "name" : "Black Knight Greataxe",
+  "attackPower" : {
+    "physical" : 229,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 55,
+    "magic" : 10,
+    "fire" : 40,
+    "lightning" : 40,
+    "stability" : 38
+  },
+  "requirements" : {
+    "strength" : 36,
+    "dexterity" : 18,
+    "intelligence" : 0,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "B",
+    "dexterity" : "E",
+    "intelligence" : "-",
+    "faith" : "-"
+  },
+  "durability" : 300,
+  "weight" : 16.0,
+  "attackType" : "regular",
+  "weaponType" : "great-axe"
+}, {
+  "name" : "Dragon King Greataxe",
+  "attackPower" : {
+    "physical" : 380,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 55,
+    "magic" : 10,
+    "fire" : 40,
+    "lightning" : 40,
+    "stability" : 38
+  },
+  "requirements" : {
+    "strength" : 50,
+    "dexterity" : 8,
+    "intelligence" : 0,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "-",
+    "dexterity" : "-",
+    "intelligence" : "-",
+    "faith" : "-"
+  },
+  "durability" : 400,
+  "weight" : 24.0,
+  "attackType" : "regular/special",
+  "weaponType" : "great-axe"
+}, {
+  "name" : "Club",
+  "attackPower" : {
+    "physical" : 87,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 45,
+    "magic" : 10,
+    "fire" : 30,
+    "lightning" : 30,
+    "stability" : 30
+  },
+  "requirements" : {
+    "strength" : 10,
+    "dexterity" : 0,
+    "intelligence" : 0,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "A",
+    "dexterity" : "-",
+    "intelligence" : "-",
+    "faith" : "-"
+  },
+  "durability" : 250,
+  "weight" : 3.0,
+  "attackType" : "strike",
+  "weaponType" : "hammer"
+}, {
+  "name" : "Reinforced Club",
+  "attackPower" : {
+    "physical" : 97,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 45,
+    "magic" : 10,
+    "fire" : 30,
+    "lightning" : 30,
+    "stability" : 30
+  },
+  "requirements" : {
+    "strength" : 12,
+    "dexterity" : 0,
+    "intelligence" : 0,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "C",
+    "dexterity" : "-",
+    "intelligence" : "-",
+    "faith" : "-"
+  },
+  "durability" : 100,
+  "weight" : 4.0,
+  "attackType" : "strike",
+  "weaponType" : "hammer"
+}, {
+  "name" : "Blacksmith Giant Hammer",
+  "attackPower" : {
+    "physical" : 120,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 200,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 45,
+    "magic" : 10,
+    "fire" : 30,
+    "lightning" : 30,
+    "stability" : 30
+  },
+  "requirements" : {
+    "strength" : 16,
+    "dexterity" : 0,
+    "intelligence" : 0,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "D",
+    "dexterity" : "-",
+    "intelligence" : "-",
+    "faith" : "-"
+  },
+  "durability" : 250,
+  "weight" : 6.0,
+  "attackType" : "strike",
+  "weaponType" : "hammer"
+}, {
+  "name" : "Mace",
+  "attackPower" : {
+    "physical" : 91,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 45,
+    "magic" : 10,
+    "fire" : 30,
+    "lightning" : 30,
+    "stability" : 30
+  },
+  "requirements" : {
+    "strength" : 12,
+    "dexterity" : 0,
+    "intelligence" : 0,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "B",
+    "dexterity" : "-",
+    "intelligence" : "-",
+    "faith" : "-"
+  },
+  "durability" : 250,
+  "weight" : 4.0,
+  "attackType" : "strike",
+  "weaponType" : "hammer"
+}, {
+  "name" : "Morning Star",
+  "attackPower" : {
+    "physical" : 83,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 45,
+    "magic" : 10,
+    "fire" : 30,
+    "lightning" : 30,
+    "stability" : 30
+  },
+  "requirements" : {
+    "strength" : 11,
+    "dexterity" : 0,
+    "intelligence" : 0,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "C",
+    "dexterity" : "-",
+    "intelligence" : "-",
+    "faith" : "-"
+  },
+  "durability" : 180,
+  "weight" : 4.0,
+  "attackType" : "strike",
+  "weaponType" : "hammer"
+}, {
+  "name" : "Warpick",
+  "attackPower" : {
+    "physical" : 91,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 45,
+    "magic" : 10,
+    "fire" : 30,
+    "lightning" : 30,
+    "stability" : 30
+  },
+  "requirements" : {
+    "strength" : 11,
+    "dexterity" : 10,
+    "intelligence" : 0,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "C",
+    "dexterity" : "D",
+    "intelligence" : "-",
+    "faith" : "-"
+  },
+  "durability" : 220,
+  "weight" : 3.5,
+  "attackType" : "thrust",
+  "weaponType" : "hammer"
+}, {
+  "name" : "Pickaxe",
+  "attackPower" : {
+    "physical" : 89,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 45,
+    "magic" : 10,
+    "fire" : 30,
+    "lightning" : 30,
+    "stability" : 30
+  },
+  "requirements" : {
+    "strength" : 14,
+    "dexterity" : 0,
+    "intelligence" : 0,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "B",
+    "dexterity" : "-",
+    "intelligence" : "-",
+    "faith" : "-"
+  },
+  "durability" : 250,
+  "weight" : 5.0,
+  "attackType" : "thrust",
+  "weaponType" : "hammer"
+}, {
+  "name" : "Blacksmith Hammer",
+  "attackPower" : {
+    "physical" : 87,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 45,
+    "magic" : 10,
+    "fire" : 30,
+    "lightning" : 30,
+    "stability" : 30
+  },
+  "requirements" : {
+    "strength" : 14,
+    "dexterity" : 0,
+    "intelligence" : 0,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "C",
+    "dexterity" : "-",
+    "intelligence" : "-",
+    "faith" : "-"
+  },
+  "durability" : 250,
+  "weight" : 5.0,
+  "attackType" : "strike",
+  "weaponType" : "hammer"
+}, {
+  "name" : "Hammer of Vamos",
+  "attackPower" : {
+    "physical" : 105,
+    "magical" : 0,
+    "fire" : 64,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 45,
+    "magic" : 10,
+    "fire" : 30,
+    "lightning" : 30,
+    "stability" : 30
+  },
+  "requirements" : {
+    "strength" : 14,
+    "dexterity" : 0,
+    "intelligence" : 0,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "C",
+    "dexterity" : "-",
+    "intelligence" : "-",
+    "faith" : "-"
+  },
+  "durability" : 250,
+  "weight" : 12.0,
+  "attackType" : "strike",
+  "weaponType" : "hammer"
+}, {
+  "name" : "Smough's Hammer",
+  "attackPower" : {
+    "physical" : 300,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 50,
+    "magic" : 10,
+    "fire" : 35,
+    "lightning" : 35,
+    "stability" : 32
+  },
+  "requirements" : {
+    "strength" : 58,
+    "dexterity" : 0,
+    "intelligence" : 0,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "D",
+    "dexterity" : "-",
+    "intelligence" : "-",
+    "faith" : "-"
+  },
+  "durability" : 600,
+  "weight" : 28.0,
+  "attackType" : "strike",
+  "weaponType" : "great-hammer"
+}, {
+  "name" : "Large Club",
+  "attackPower" : {
+    "physical" : 120,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 50,
+    "magic" : 10,
+    "fire" : 35,
+    "lightning" : 35,
+    "stability" : 32
+  },
+  "requirements" : {
+    "strength" : 26,
+    "dexterity" : 0,
+    "intelligence" : 0,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "A",
+    "dexterity" : "-",
+    "intelligence" : "-",
+    "faith" : "-"
+  },
+  "durability" : 250,
+  "weight" : 11.0,
+  "attackType" : "strike",
+  "weaponType" : "great-hammer"
+}, {
+  "name" : "Great Club",
+  "attackPower" : {
+    "physical" : 135,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 50,
+    "magic" : 10,
+    "fire" : 35,
+    "lightning" : 35,
+    "stability" : 32
+  },
+  "requirements" : {
+    "strength" : 28,
+    "dexterity" : 0,
+    "intelligence" : 0,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "B",
+    "dexterity" : "-",
+    "intelligence" : "-",
+    "faith" : "-"
+  },
+  "durability" : 250,
+  "weight" : 12.0,
+  "attackType" : "strike",
+  "weaponType" : "great-hammer"
+}, {
+  "name" : "Demon's Great Hammer",
+  "attackPower" : {
+    "physical" : 138,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 50,
+    "magic" : 10,
+    "fire" : 35,
+    "lightning" : 35,
+    "stability" : 32
+  },
+  "requirements" : {
+    "strength" : 46,
+    "dexterity" : 0,
+    "intelligence" : 0,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "B",
+    "dexterity" : "-",
+    "intelligence" : "-",
+    "faith" : "-"
+  },
+  "durability" : 600,
+  "weight" : 22.0,
+  "attackType" : "strike",
+  "weaponType" : "great-hammer"
+}, {
+  "name" : "Grant",
+  "attackPower" : {
+    "physical" : 130,
+    "magical" : 130,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 50,
+    "magic" : 10,
+    "fire" : 35,
+    "lightning" : 35,
+    "stability" : 32
+  },
+  "requirements" : {
+    "strength" : 50,
+    "dexterity" : 0,
+    "intelligence" : 0,
+    "faith" : 30
+  },
+  "parameterBonus" : {
+    "strength" : "B",
+    "dexterity" : "-",
+    "intelligence" : "-",
+    "faith" : "A"
+  },
+  "durability" : 600,
+  "weight" : 24.0,
+  "attackType" : "strike/special",
+  "weaponType" : "great-hammer"
+}, {
+  "name" : "Dragon Tooth",
+  "attackPower" : {
+    "physical" : 290,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 50,
+    "magic" : 10,
+    "fire" : 35,
+    "lightning" : 35,
+    "stability" : 32
+  },
+  "requirements" : {
+    "strength" : 40,
+    "dexterity" : 0,
+    "intelligence" : 0,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "D",
+    "dexterity" : "-",
+    "intelligence" : "-",
+    "faith" : "-"
+  },
+  "durability" : 999,
+  "weight" : 18.0,
+  "attackType" : "strike",
+  "weaponType" : "great-hammer"
+}, {
+  "name" : "Dragon Bone Fist",
+  "attackPower" : {
+    "physical" : 95,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 0,
+    "magic" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "stability" : 0
+  },
+  "requirements" : {
+    "strength" : 20,
+    "dexterity" : 0,
+    "intelligence" : 0,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "A",
+    "dexterity" : "-",
+    "intelligence" : "-",
+    "faith" : "-"
+  },
+  "durability" : 999,
+  "weight" : 8.0,
+  "attackType" : "strike",
+  "weaponType" : "fist-weapon"
+}, {
+  "name" : "Caestus",
+  "attackPower" : {
+    "physical" : 66,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 0,
+    "magic" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "stability" : 0
+  },
+  "requirements" : {
+    "strength" : 5,
+    "dexterity" : 8,
+    "intelligence" : 0,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "C",
+    "dexterity" : "C",
+    "intelligence" : "-",
+    "faith" : "-"
+  },
+  "durability" : 300,
+  "weight" : 0.5,
+  "attackType" : "strike",
+  "weaponType" : "fist-weapon"
+}, {
+  "name" : "Claws",
+  "attackPower" : {
+    "physical" : 72,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 0,
+    "magic" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "stability" : 0
+  },
+  "requirements" : {
+    "strength" : 6,
+    "dexterity" : 14,
+    "intelligence" : 0,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "E",
+    "dexterity" : "B",
+    "intelligence" : "-",
+    "faith" : "-"
+  },
+  "durability" : 150,
+  "weight" : 1.0,
+  "attackType" : "slash",
+  "weaponType" : "fist-weapon"
+}, {
+  "name" : "Dark Hand",
+  "attackPower" : {
+    "physical" : 200,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 80,
+    "magic" : 80,
+    "fire" : 80,
+    "lightning" : 80,
+    "stability" : 30
+  },
+  "requirements" : {
+    "strength" : 0,
+    "dexterity" : 0,
+    "intelligence" : 0,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "-",
+    "dexterity" : "-",
+    "intelligence" : "-",
+    "faith" : "-"
+  },
+  "durability" : 999,
+  "weight" : 0.5,
+  "attackType" : "strike/special",
+  "weaponType" : "fist-weapon"
+}, {
+  "name" : "Spear",
+  "attackPower" : {
+    "physical" : 80,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 40,
+    "magic" : 10,
+    "fire" : 30,
+    "lightning" : 30,
+    "stability" : 26
+  },
+  "requirements" : {
+    "strength" : 11,
+    "dexterity" : 10,
+    "intelligence" : 0,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "D",
+    "dexterity" : "C",
+    "intelligence" : "-",
+    "faith" : "-"
+  },
+  "durability" : 180,
+  "weight" : 3.5,
+  "attackType" : "thrust",
+  "weaponType" : "spear"
+}, {
+  "name" : "Winged Spear",
+  "attackPower" : {
+    "physical" : 86,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 40,
+    "magic" : 10,
+    "fire" : 30,
+    "lightning" : 30,
+    "stability" : 26
+  },
+  "requirements" : {
+    "strength" : 13,
+    "dexterity" : 15,
+    "intelligence" : 0,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "E",
+    "dexterity" : "C",
+    "intelligence" : "-",
+    "faith" : "-"
+  },
+  "durability" : 140,
+  "weight" : 4.5,
+  "attackType" : "thrust",
+  "weaponType" : "spear"
+}, {
+  "name" : "Partizan",
+  "attackPower" : {
+    "physical" : 80,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 40,
+    "magic" : 10,
+    "fire" : 30,
+    "lightning" : 30,
+    "stability" : 26
+  },
+  "requirements" : {
+    "strength" : 13,
+    "dexterity" : 12,
+    "intelligence" : 0,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "D",
+    "dexterity" : "C",
+    "intelligence" : "-",
+    "faith" : "-"
+  },
+  "durability" : 160,
+  "weight" : 4.5,
+  "attackType" : "regular/thrust",
+  "weaponType" : "spear"
+}, {
+  "name" : "Four-pronged Plow",
+  "attackPower" : {
+    "physical" : 75,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 40,
+    "magic" : 10,
+    "fire" : 30,
+    "lightning" : 30,
+    "stability" : 26
+  },
+  "requirements" : {
+    "strength" : 15,
+    "dexterity" : 12,
+    "intelligence" : 0,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "D",
+    "dexterity" : "C",
+    "intelligence" : "-",
+    "faith" : "-"
+  },
+  "durability" : 300,
+  "weight" : 5.5,
+  "attackType" : "thrust",
+  "weaponType" : "spear"
+}, {
+  "name" : "Dragonslayer Spear",
+  "attackPower" : {
+    "physical" : 90,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 60,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 40,
+    "magic" : 10,
+    "fire" : 30,
+    "lightning" : 30,
+    "stability" : 26
+  },
+  "requirements" : {
+    "strength" : 24,
+    "dexterity" : 24,
+    "intelligence" : 0,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "C",
+    "dexterity" : "B",
+    "intelligence" : "-",
+    "faith" : "B"
+  },
+  "durability" : 300,
+  "weight" : 10.0,
+  "attackType" : "thrust/special",
+  "weaponType" : "spear"
+}, {
+  "name" : "Moonlight Butterfly Horn",
+  "attackPower" : {
+    "physical" : 0,
+    "magical" : 110,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 40,
+    "magic" : 10,
+    "fire" : 30,
+    "lightning" : 30,
+    "stability" : 26
+  },
+  "requirements" : {
+    "strength" : 12,
+    "dexterity" : 0,
+    "intelligence" : 14,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "-",
+    "dexterity" : "-",
+    "intelligence" : "B",
+    "faith" : "-"
+  },
+  "durability" : 160,
+  "weight" : 4.0,
+  "attackType" : "thrust",
+  "weaponType" : "spear"
+}, {
+  "name" : "Pike",
+  "attackPower" : {
+    "physical" : 86,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 40,
+    "magic" : 10,
+    "fire" : 30,
+    "lightning" : 30,
+    "stability" : 26
+  },
+  "requirements" : {
+    "strength" : 24,
+    "dexterity" : 10,
+    "intelligence" : 0,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "D",
+    "dexterity" : "C",
+    "intelligence" : "-",
+    "faith" : "-"
+  },
+  "durability" : 180,
+  "weight" : 10.0,
+  "attackType" : "thrust",
+  "weaponType" : "spear"
+}, {
+  "name" : "Channeler's Trident",
+  "attackPower" : {
+    "physical" : 70,
+    "magical" : 104,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 40,
+    "magic" : 10,
+    "fire" : 30,
+    "lightning" : 30,
+    "stability" : 26
+  },
+  "requirements" : {
+    "strength" : 16,
+    "dexterity" : 16,
+    "intelligence" : 24,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "E",
+    "dexterity" : "C",
+    "intelligence" : "B",
+    "faith" : "-"
+  },
+  "durability" : 240,
+  "weight" : 6.0,
+  "attackType" : "thrust/special",
+  "weaponType" : "spear"
+}, {
+  "name" : "Demon's Spear",
+  "attackPower" : {
+    "physical" : 100,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 120,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 40,
+    "magic" : 10,
+    "fire" : 30,
+    "lightning" : 30,
+    "stability" : 26
+  },
+  "requirements" : {
+    "strength" : 12,
+    "dexterity" : 10,
+    "intelligence" : 0,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "C",
+    "dexterity" : "C",
+    "intelligence" : "-",
+    "faith" : "-"
+  },
+  "durability" : 400,
+  "weight" : 4.0,
+  "attackType" : "thrust",
+  "weaponType" : "spear"
+}, {
+  "name" : "Silver Knight Spear",
+  "attackPower" : {
+    "physical" : 155,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 40,
+    "magic" : 10,
+    "fire" : 30,
+    "lightning" : 30,
+    "stability" : 26
+  },
+  "requirements" : {
+    "strength" : 16,
+    "dexterity" : 22,
+    "intelligence" : 0,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "E",
+    "dexterity" : "C",
+    "intelligence" : "-",
+    "faith" : "-"
+  },
+  "durability" : 300,
+  "weight" : 6.0,
+  "attackType" : "regular/thrust",
+  "weaponType" : "spear"
+}, {
+  "name" : "Halberd",
+  "attackPower" : {
+    "physical" : 110,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 40,
+    "magic" : 10,
+    "fire" : 30,
+    "lightning" : 30,
+    "stability" : 26
+  },
+  "requirements" : {
+    "strength" : 16,
+    "dexterity" : 12,
+    "intelligence" : 0,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "D",
+    "dexterity" : "D",
+    "intelligence" : "-",
+    "faith" : "-"
+  },
+  "durability" : 200,
+  "weight" : 6.0,
+  "attackType" : "regular/thrust",
+  "weaponType" : "halberd"
+}, {
+  "name" : "Lifehunt Scythe",
+  "attackPower" : {
+    "physical" : 165,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 40,
+    "magic" : 10,
+    "fire" : 30,
+    "lightning" : 30,
+    "stability" : 22
+  },
+  "requirements" : {
+    "strength" : 16,
+    "dexterity" : 14,
+    "intelligence" : 0,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "E",
+    "dexterity" : "B",
+    "intelligence" : "-",
+    "faith" : "-"
+  },
+  "durability" : 100,
+  "weight" : 6.0,
+  "attackType" : "slash",
+  "weaponType" : "halberd"
+}, {
+  "name" : "Lucerne",
+  "attackPower" : {
+    "physical" : 110,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 40,
+    "magic" : 10,
+    "fire" : 30,
+    "lightning" : 30,
+    "stability" : 26
+  },
+  "requirements" : {
+    "strength" : 15,
+    "dexterity" : 12,
+    "intelligence" : 0,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "D",
+    "dexterity" : "D",
+    "intelligence" : "-",
+    "faith" : "-"
+  },
+  "durability" : 200,
+  "weight" : 5.5,
+  "attackType" : "thrust",
+  "weaponType" : "halberd"
+}, {
+  "name" : "Scythe",
+  "attackPower" : {
+    "physical" : 110,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 40,
+    "magic" : 10,
+    "fire" : 30,
+    "lightning" : 30,
+    "stability" : 26
+  },
+  "requirements" : {
+    "strength" : 14,
+    "dexterity" : 12,
+    "intelligence" : 0,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "E",
+    "dexterity" : "C",
+    "intelligence" : "-",
+    "faith" : "-"
+  },
+  "durability" : 200,
+  "weight" : 5.0,
+  "attackType" : "slash",
+  "weaponType" : "halberd"
+}, {
+  "name" : "Gargoyle's Halberd",
+  "attackPower" : {
+    "physical" : 115,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 40,
+    "magic" : 10,
+    "fire" : 30,
+    "lightning" : 30,
+    "stability" : 26
+  },
+  "requirements" : {
+    "strength" : 16,
+    "dexterity" : 12,
+    "intelligence" : 0,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "D",
+    "dexterity" : "D",
+    "intelligence" : "-",
+    "faith" : "-"
+  },
+  "durability" : 200,
+  "weight" : 6.0,
+  "attackType" : "regular",
+  "weaponType" : "halberd"
+}, {
+  "name" : "Giant's Halberd",
+  "attackPower" : {
+    "physical" : 110,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 135,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 40,
+    "magic" : 10,
+    "fire" : 30,
+    "lightning" : 30,
+    "stability" : 26
+  },
+  "requirements" : {
+    "strength" : 36,
+    "dexterity" : 12,
+    "intelligence" : 0,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "D",
+    "dexterity" : "D",
+    "intelligence" : "-",
+    "faith" : "-"
+  },
+  "durability" : 300,
+  "weight" : 16.0,
+  "attackType" : "regular/thrust",
+  "weaponType" : "halberd"
+}, {
+  "name" : "Titanite Catch Pole",
+  "attackPower" : {
+    "physical" : 120,
+    "magical" : 145,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 40,
+    "magic" : 10,
+    "fire" : 30,
+    "lightning" : 30,
+    "stability" : 26
+  },
+  "requirements" : {
+    "strength" : 16,
+    "dexterity" : 14,
+    "intelligence" : 0,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "D",
+    "dexterity" : "D",
+    "intelligence" : "D",
+    "faith" : "-"
+  },
+  "durability" : 600,
+  "weight" : 6.0,
+  "attackType" : "regular",
+  "weaponType" : "halberd"
+}, {
+  "name" : "Black Knight Halberd",
+  "attackPower" : {
+    "physical" : 245,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 40,
+    "magic" : 10,
+    "fire" : 30,
+    "lightning" : 30,
+    "stability" : 26
+  },
+  "requirements" : {
+    "strength" : 32,
+    "dexterity" : 18,
+    "intelligence" : 0,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "D",
+    "dexterity" : "E",
+    "intelligence" : "-",
+    "faith" : "-"
+  },
+  "durability" : 300,
+  "weight" : 14.0,
+  "attackType" : "slash",
+  "weaponType" : "halberd"
+}, {
+  "name" : "Great Scythe",
+  "attackPower" : {
+    "physical" : 100,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 40,
+    "magic" : 10,
+    "fire" : 30,
+    "lightning" : 30,
+    "stability" : 22
+  },
+  "requirements" : {
+    "strength" : 14,
+    "dexterity" : 14,
+    "intelligence" : 0,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "E",
+    "dexterity" : "B",
+    "intelligence" : "-",
+    "faith" : "-"
+  },
+  "durability" : 130,
+  "weight" : 5.0,
+  "attackType" : "slash",
+  "weaponType" : "halberd"
+}, {
+  "name" : "Whip",
+  "attackPower" : {
+    "physical" : 80,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 30,
+    "magic" : 10,
+    "fire" : 20,
+    "lightning" : 20,
+    "stability" : 16
+  },
+  "requirements" : {
+    "strength" : 7,
+    "dexterity" : 14,
+    "intelligence" : 0,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "-",
+    "dexterity" : "B",
+    "intelligence" : "-",
+    "faith" : "-"
+  },
+  "durability" : 200,
+  "weight" : 1.5,
+  "attackType" : "regular",
+  "weaponType" : "whip"
+}, {
+  "name" : "Notched Whip",
+  "attackPower" : {
+    "physical" : 76,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 30,
+    "magic" : 10,
+    "fire" : 20,
+    "lightning" : 20,
+    "stability" : 16
+  },
+  "requirements" : {
+    "strength" : 8,
+    "dexterity" : 16,
+    "intelligence" : 0,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "-",
+    "dexterity" : "B",
+    "intelligence" : "-",
+    "faith" : "-"
+  },
+  "durability" : 200,
+  "weight" : 2.0,
+  "attackType" : "regular",
+  "weaponType" : "whip"
+}, {
+  "name" : "Guardian Tail",
+  "attackPower" : {
+    "physical" : 84,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 30,
+    "magic" : 10,
+    "fire" : 20,
+    "lightning" : 20,
+    "stability" : 16
+  },
+  "requirements" : {
+    "strength" : 15,
+    "dexterity" : 10,
+    "intelligence" : 0,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "-",
+    "dexterity" : "C",
+    "intelligence" : "-",
+    "faith" : "-"
+  },
+  "durability" : 250,
+  "weight" : 5.0,
+  "attackType" : "regular",
+  "weaponType" : "whip"
+}, {
+  "name" : "Short Bow",
+  "attackPower" : {
+    "physical" : 31,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 0,
+    "magic" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "stability" : 0
+  },
+  "requirements" : {
+    "strength" : 7,
+    "dexterity" : 12,
+    "intelligence" : 0,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "D",
+    "dexterity" : "A",
+    "intelligence" : "-",
+    "faith" : "-"
+  },
+  "durability" : 100,
+  "weight" : 0.5,
+  "range" : 50,
+  "category" : "bow"
+}, {
+  "name" : "Composite Bow",
+  "attackPower" : {
+    "physical" : 55,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 0,
+    "magic" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "stability" : 0
+  },
+  "requirements" : {
+    "strength" : 11,
+    "dexterity" : 12,
+    "intelligence" : 0,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "C",
+    "dexterity" : "C",
+    "intelligence" : "-",
+    "faith" : "-"
+  },
+  "durability" : 100,
+  "weight" : 1.0,
+  "range" : 38,
+  "category" : "bow"
+}, {
+  "name" : "Darkmoon Bow",
+  "attackPower" : {
+    "physical" : 80,
+    "magical" : 80,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 0,
+    "magic" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "stability" : 0
+  },
+  "requirements" : {
+    "strength" : 7,
+    "dexterity" : 16,
+    "intelligence" : 0,
+    "faith" : 16
+  },
+  "parameterBonus" : {
+    "strength" : "E",
+    "dexterity" : "D",
+    "intelligence" : "-",
+    "faith" : "D"
+  },
+  "durability" : 400,
+  "weight" : 1.0,
+  "range" : 50,
+  "category" : "bow"
+}, {
+  "name" : "Longbow",
+  "attackPower" : {
+    "physical" : 36,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 0,
+    "magic" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "stability" : 0
+  },
+  "requirements" : {
+    "strength" : 9,
+    "dexterity" : 14,
+    "intelligence" : 0,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "D",
+    "dexterity" : "A",
+    "intelligence" : "-",
+    "faith" : "-"
+  },
+  "durability" : 100,
+  "weight" : 1.0,
+  "range" : 50,
+  "category" : "bow"
+}, {
+  "name" : "Black Bow of Pharis",
+  "attackPower" : {
+    "physical" : 34,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 0,
+    "magic" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "stability" : 0
+  },
+  "requirements" : {
+    "strength" : 9,
+    "dexterity" : 18,
+    "intelligence" : 0,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "E",
+    "dexterity" : "S",
+    "intelligence" : "-",
+    "faith" : "-"
+  },
+  "durability" : 100,
+  "weight" : 1.0,
+  "range" : 65,
+  "category" : "bow"
+}, {
+  "name" : "Dragonslayer Greatbow",
+  "attackPower" : {
+    "physical" : 90,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 0,
+    "magic" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "stability" : 0
+  },
+  "requirements" : {
+    "strength" : 20,
+    "dexterity" : 20,
+    "intelligence" : 0,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "C",
+    "dexterity" : "C",
+    "intelligence" : "-",
+    "faith" : "-"
+  },
+  "durability" : 100,
+  "weight" : 10.0,
+  "range" : 50,
+  "category" : "greatbow"
+}, {
+  "name" : "Gough's Greatbow",
+  "attackPower" : {
+    "physical" : 85,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 0,
+    "magic" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "stability" : 0
+  },
+  "requirements" : {
+    "strength" : 27,
+    "dexterity" : 20,
+    "intelligence" : 0,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "B",
+    "dexterity" : "C",
+    "intelligence" : "-",
+    "faith" : "-"
+  },
+  "durability" : 100,
+  "weight" : 13.0,
+  "range" : 55,
+  "category" : "greatbow"
+}, {
+  "name" : "Light Crossbow",
+  "attackPower" : {
+    "physical" : 50,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 0,
+    "magic" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "stability" : 0
+  },
+  "requirements" : {
+    "strength" : 10,
+    "dexterity" : 8,
+    "intelligence" : 0,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "-",
+    "dexterity" : "-",
+    "intelligence" : "-",
+    "faith" : "-"
+  },
+  "durability" : 150,
+  "weight" : 3.0,
+  "range" : 50,
+  "category" : "crossbow"
+}, {
+  "name" : "Heavy Crossbow",
+  "attackPower" : {
+    "physical" : 55,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 0,
+    "magic" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "stability" : 0
+  },
+  "requirements" : {
+    "strength" : 14,
+    "dexterity" : 8,
+    "intelligence" : 0,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "-",
+    "dexterity" : "-",
+    "intelligence" : "-",
+    "faith" : "-"
+  },
+  "durability" : 150,
+  "weight" : 5.0,
+  "range" : 50,
+  "category" : "crossbow"
+}, {
+  "name" : "Sniper Crossbow",
+  "attackPower" : {
+    "physical" : 52,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 0,
+    "magic" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "stability" : 0
+  },
+  "requirements" : {
+    "strength" : 20,
+    "dexterity" : 16,
+    "intelligence" : 0,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "-",
+    "dexterity" : "-",
+    "intelligence" : "-",
+    "faith" : "-"
+  },
+  "durability" : 150,
+  "weight" : 8.0,
+  "range" : 70,
+  "category" : "crossbow"
+}, {
+  "name" : "Avelyn",
+  "attackPower" : {
+    "physical" : 37,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 0,
+    "magic" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "stability" : 0
+  },
+  "requirements" : {
+    "strength" : 16,
+    "dexterity" : 14,
+    "intelligence" : 0,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "-",
+    "dexterity" : "-",
+    "intelligence" : "-",
+    "faith" : "-"
+  },
+  "durability" : 150,
+  "weight" : 6.0,
+  "range" : 50,
+  "category" : "crossbow"
+}, {
+  "name" : "Sorcerer's Catalyst",
+  "attackPower" : {
+    "physical" : 40,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 26,
+    "magic" : 8,
+    "fire" : 20,
+    "lightning" : 20,
+    "stability" : 16
+  },
+  "requirements" : {
+    "strength" : 6,
+    "dexterity" : 0,
+    "intelligence" : 10,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "E",
+    "dexterity" : "-",
+    "intelligence" : "A",
+    "faith" : "-"
+  },
+  "durability" : 90,
+  "weight" : 2.0,
+  "attackType" : "strike",
+  "weaponType" : "catalyst"
+}, {
+  "name" : "Manus Catalyst",
+  "attackPower" : {
+    "physical" : 190,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 26,
+    "magic" : 8,
+    "fire" : 20,
+    "lightning" : 20,
+    "stability" : 16
+  },
+  "requirements" : {
+    "strength" : 14,
+    "dexterity" : 0,
+    "intelligence" : 13,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "B",
+    "dexterity" : "-",
+    "intelligence" : "S",
+    "faith" : "-"
+  },
+  "durability" : 60,
+  "weight" : 5.0,
+  "attackType" : "strike",
+  "weaponType" : "catalyst"
+}, {
+  "name" : "Tin Darkmoon Catalyst",
+  "attackPower" : {
+    "physical" : 44,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 26,
+    "magic" : 8,
+    "fire" : 20,
+    "lightning" : 20,
+    "stability" : 16
+  },
+  "requirements" : {
+    "strength" : 4,
+    "dexterity" : 0,
+    "intelligence" : 0,
+    "faith" : 16
+  },
+  "parameterBonus" : {
+    "strength" : "E",
+    "dexterity" : "-",
+    "intelligence" : "-",
+    "faith" : "A"
+  },
+  "durability" : 60,
+  "weight" : 1.0,
+  "attackType" : "strike",
+  "weaponType" : "catalyst"
+}, {
+  "name" : "Beatrice's Catalyst",
+  "attackPower" : {
+    "physical" : 40,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 26,
+    "magic" : 8,
+    "fire" : 20,
+    "lightning" : 20,
+    "stability" : 16
+  },
+  "requirements" : {
+    "strength" : 6,
+    "dexterity" : 0,
+    "intelligence" : 10,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "E",
+    "dexterity" : "-",
+    "intelligence" : "A",
+    "faith" : "-"
+  },
+  "durability" : 90,
+  "weight" : 2.0,
+  "attackType" : "strike",
+  "weaponType" : "catalyst"
+}, {
+  "name" : "Logan's Catalyst",
+  "attackPower" : {
+    "physical" : 46,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 26,
+    "magic" : 8,
+    "fire" : 20,
+    "lightning" : 20,
+    "stability" : 16
+  },
+  "requirements" : {
+    "strength" : 6,
+    "dexterity" : 0,
+    "intelligence" : 24,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "E",
+    "dexterity" : "-",
+    "intelligence" : "S",
+    "faith" : "-"
+  },
+  "durability" : 90,
+  "weight" : 2.0,
+  "attackType" : "strike",
+  "weaponType" : "catalyst"
+}, {
+  "name" : "Oolacile Ivory Catalyst",
+  "attackPower" : {
+    "physical" : 24,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 26,
+    "magic" : 8,
+    "fire" : 20,
+    "lightning" : 20,
+    "stability" : 16
+  },
+  "requirements" : {
+    "strength" : 3,
+    "dexterity" : 0,
+    "intelligence" : 12,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "E",
+    "dexterity" : "-",
+    "intelligence" : "C",
+    "faith" : "-"
+  },
+  "durability" : 30,
+  "weight" : 0.5,
+  "attackType" : "strike",
+  "weaponType" : "catalyst"
+}, {
+  "name" : "Oolacile Catalyst",
+  "attackPower" : {
+    "physical" : 40,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 26,
+    "magic" : 8,
+    "fire" : 20,
+    "lightning" : 20,
+    "stability" : 16
+  },
+  "requirements" : {
+    "strength" : 6,
+    "dexterity" : 0,
+    "intelligence" : 10,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "E",
+    "dexterity" : "-",
+    "intelligence" : "C",
+    "faith" : "-"
+  },
+  "durability" : 55,
+  "weight" : 2.0,
+  "attackType" : "strike",
+  "weaponType" : "catalyst"
+}, {
+  "name" : "Demon's Catalyst",
+  "attackPower" : {
+    "physical" : 110,
+    "magical" : 0,
+    "fire" : 170,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 26,
+    "magic" : 8,
+    "fire" : 20,
+    "lightning" : 20,
+    "stability" : 16
+  },
+  "requirements" : {
+    "strength" : 12,
+    "dexterity" : 10,
+    "intelligence" : 10,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "D",
+    "dexterity" : "D",
+    "intelligence" : "B",
+    "faith" : "-"
+  },
+  "durability" : 300,
+  "weight" : 4.0,
+  "attackType" : "thrust",
+  "weaponType" : "catalyst"
+}, {
+  "name" : "Izalith Catalyst",
+  "attackPower" : {
+    "physical" : 40,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 26,
+    "magic" : 8,
+    "fire" : 20,
+    "lightning" : 20,
+    "stability" : 16
+  },
+  "requirements" : {
+    "strength" : 6,
+    "dexterity" : 0,
+    "intelligence" : 14,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "E",
+    "dexterity" : "-",
+    "intelligence" : "A",
+    "faith" : "-"
+  },
+  "durability" : 300,
+  "weight" : 2.0,
+  "attackType" : "strike",
+  "weaponType" : "catalyst"
+}, {
+  "name" : "Tin Banishment Catalyst",
+  "attackPower" : {
+    "physical" : 145,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 26,
+    "magic" : 8,
+    "fire" : 20,
+    "lightning" : 20,
+    "stability" : 16
+  },
+  "requirements" : {
+    "strength" : 10,
+    "dexterity" : 10,
+    "intelligence" : 12,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "E",
+    "dexterity" : "D",
+    "intelligence" : "A",
+    "faith" : "-"
+  },
+  "durability" : 160,
+  "weight" : 3.0,
+  "attackType" : "thrust",
+  "weaponType" : "catalyst"
+}, {
+  "name" : "Tin Crystallization Catalyst",
+  "attackPower" : {
+    "physical" : 240,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 26,
+    "magic" : 8,
+    "fire" : 20,
+    "lightning" : 20,
+    "stability" : 16
+  },
+  "requirements" : {
+    "strength" : 7,
+    "dexterity" : 0,
+    "intelligence" : 32,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "E",
+    "dexterity" : "-",
+    "intelligence" : "S",
+    "faith" : "-"
+  },
+  "durability" : 90,
+  "weight" : 2.5,
+  "attackType" : "thrust",
+  "weaponType" : "catalyst"
+}, {
+  "name" : "Pyromancy Flame",
+  "attackPower" : {
+    "physical" : 0,
+    "magical" : 0,
+    "fire" : 40,
+    "lightning" : 0,
+    "critical" : 0
+  },
+  "damageReduction" : {
+    "physical" : 0,
+    "magic" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "stability" : 0
+  },
+  "requirements" : {
+    "strength" : 4,
+    "dexterity" : 0,
+    "intelligence" : 0,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "-",
+    "dexterity" : "-",
+    "intelligence" : "-",
+    "faith" : "-"
+  },
+  "durability" : 30,
+  "weight" : 0.0,
+  "attackType" : "strike",
+  "weaponType" : "flame"
+}, {
+  "name" : "Pyromancy Flame (Upgraded)",
+  "attackPower" : {
+    "physical" : 0,
+    "magical" : 0,
+    "fire" : 60,
+    "lightning" : 0,
+    "critical" : 0
+  },
+  "damageReduction" : {
+    "physical" : 0,
+    "magic" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "stability" : 0
+  },
+  "requirements" : {
+    "strength" : 4,
+    "dexterity" : 0,
+    "intelligence" : 0,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "-",
+    "dexterity" : "-",
+    "intelligence" : "S",
+    "faith" : "-"
+  },
+  "durability" : 30,
+  "weight" : 0.0,
+  "attackType" : "strike",
+  "weaponType" : "flame"
+}, {
+  "name" : "Talisman",
+  "attackPower" : {
+    "physical" : 14,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 26,
+    "magic" : 8,
+    "fire" : 20,
+    "lightning" : 20,
+    "stability" : 16
+  },
+  "requirements" : {
+    "strength" : 4,
+    "dexterity" : 0,
+    "intelligence" : 0,
+    "faith" : 10
+  },
+  "parameterBonus" : {
+    "strength" : "-",
+    "dexterity" : "-",
+    "intelligence" : "-",
+    "faith" : "B"
+  },
+  "durability" : 50,
+  "weight" : 0.3,
+  "attackType" : "strike",
+  "weaponType" : "talisman"
+}, {
+  "name" : "Canvas Talisman",
+  "attackPower" : {
+    "physical" : 14,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 26,
+    "magic" : 8,
+    "fire" : 20,
+    "lightning" : 20,
+    "stability" : 16
+  },
+  "requirements" : {
+    "strength" : 4,
+    "dexterity" : 0,
+    "intelligence" : 0,
+    "faith" : 14
+  },
+  "parameterBonus" : {
+    "strength" : "-",
+    "dexterity" : "-",
+    "intelligence" : "-",
+    "faith" : "A"
+  },
+  "durability" : 50,
+  "weight" : 0.3,
+  "attackType" : "strike",
+  "weaponType" : "talisman"
+}, {
+  "name" : "Thorolund Talisman",
+  "attackPower" : {
+    "physical" : 14,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 26,
+    "magic" : 8,
+    "fire" : 20,
+    "lightning" : 20,
+    "stability" : 16
+  },
+  "requirements" : {
+    "strength" : 4,
+    "dexterity" : 0,
+    "intelligence" : 0,
+    "faith" : 10
+  },
+  "parameterBonus" : {
+    "strength" : "-",
+    "dexterity" : "-",
+    "intelligence" : "-",
+    "faith" : "D"
+  },
+  "durability" : 50,
+  "weight" : 0.3,
+  "attackType" : "strike",
+  "weaponType" : "talisman"
+}, {
+  "name" : "Ivory Talisman",
+  "attackPower" : {
+    "physical" : 14,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 26,
+    "magic" : 8,
+    "fire" : 20,
+    "lightning" : 20,
+    "stability" : 16
+  },
+  "requirements" : {
+    "strength" : 4,
+    "dexterity" : 0,
+    "intelligence" : 0,
+    "faith" : 16
+  },
+  "parameterBonus" : {
+    "strength" : "-",
+    "dexterity" : "-",
+    "intelligence" : "-",
+    "faith" : "A"
+  },
+  "durability" : 50,
+  "weight" : 0.3,
+  "attackType" : "strike",
+  "weaponType" : "talisman"
+}, {
+  "name" : "Sunlight Talisman",
+  "attackPower" : {
+    "physical" : 14,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 26,
+    "magic" : 8,
+    "fire" : 20,
+    "lightning" : 20,
+    "stability" : 16
+  },
+  "requirements" : {
+    "strength" : 4,
+    "dexterity" : 0,
+    "intelligence" : 0,
+    "faith" : 14
+  },
+  "parameterBonus" : {
+    "strength" : "-",
+    "dexterity" : "-",
+    "intelligence" : "-",
+    "faith" : "A"
+  },
+  "durability" : 50,
+  "weight" : 0.3,
+  "attackType" : "strike",
+  "weaponType" : "talisman"
+}, {
+  "name" : "Darkmoon Talisman",
+  "attackPower" : {
+    "physical" : 14,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 26,
+    "magic" : 8,
+    "fire" : 20,
+    "lightning" : 20,
+    "stability" : 16
+  },
+  "requirements" : {
+    "strength" : 4,
+    "dexterity" : 0,
+    "intelligence" : 0,
+    "faith" : 24
+  },
+  "parameterBonus" : {
+    "strength" : "-",
+    "dexterity" : "-",
+    "intelligence" : "-",
+    "faith" : "A"
+  },
+  "durability" : 50,
+  "weight" : 0.3,
+  "attackType" : "strike",
+  "weaponType" : "talisman"
+}, {
+  "name" : "Velka's Talisman",
+  "attackPower" : {
+    "physical" : 14,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 100
+  },
+  "damageReduction" : {
+    "physical" : 26,
+    "magic" : 8,
+    "fire" : 20,
+    "lightning" : 20,
+    "stability" : 16
+  },
+  "requirements" : {
+    "strength" : 4,
+    "dexterity" : 0,
+    "intelligence" : 16,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "-",
+    "dexterity" : "-",
+    "intelligence" : "A",
+    "faith" : "-"
+  },
+  "durability" : 50,
+  "weight" : 0.3,
+  "attackType" : "strike",
+  "weaponType" : "talisman"
+}, {
+  "name" : "Gwynevere's Talisman",
+  "attackPower" : {
+    "physical" : 0,
+    "magical" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "critical" : 0
+  },
+  "damageReduction" : {
+    "physical" : 0,
+    "magic" : 0,
+    "fire" : 0,
+    "lightning" : 0,
+    "stability" : 0
+  },
+  "requirements" : {
+    "strength" : 0,
+    "dexterity" : 0,
+    "intelligence" : 0,
+    "faith" : 0
+  },
+  "parameterBonus" : {
+    "strength" : "-",
+    "dexterity" : "-",
+    "intelligence" : "-",
+    "faith" : "-"
+  },
+  "durability" : 0,
+  "weight" : 0.0,
+  "attackType" : "none",
+  "weaponType" : "talisman"
+} ]
